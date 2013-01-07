@@ -1,0 +1,11 @@
+*.txt
+*.csv
+*.sql
+*.jpg
+*.idea
+*.xls
+*.xlsx
+*.zip
+*.swp
+*._redcar
+wsdl/*
